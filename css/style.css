@@ -533,6 +533,8 @@ footer div.navigasi a {
 }
 
 /* UNTUK kode RESPONSIF hari ke 3 tulis DI BAWAH sini */
+
+@media (max-width:768px) {
 div.navigasi {
    display: none;
 }
@@ -560,6 +562,6 @@ div.testimoni {
    margin-bottom: 40px;
 }
 
-
+}
 
 /* Kode CSS Selesai di sini */
